@@ -26,11 +26,6 @@
     </plugins>
   </build>
    <distributionManagement>
-        <repository>
-            <id>repoR</id>
-            <name>Internal Releases</name>
-            <url>http://192.168.33.30:8081/repository/maven-relaese/</url>
-        </repository>
         <snapshotRepository>
             <id>repoS</id>
             <name>Internal Snapshot Releases</name>
